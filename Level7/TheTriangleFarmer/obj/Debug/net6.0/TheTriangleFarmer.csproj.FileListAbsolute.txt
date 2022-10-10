@@ -1,0 +1,15 @@
+C:\Users\marcu\Desktop\Skola\Players_Guide\Level7\TheTriangleFarmer\bin\Debug\net6.0\TheTriangleFarmer.exe
+C:\Users\marcu\Desktop\Skola\Players_Guide\Level7\TheTriangleFarmer\bin\Debug\net6.0\TheTriangleFarmer.deps.json
+C:\Users\marcu\Desktop\Skola\Players_Guide\Level7\TheTriangleFarmer\bin\Debug\net6.0\TheTriangleFarmer.runtimeconfig.json
+C:\Users\marcu\Desktop\Skola\Players_Guide\Level7\TheTriangleFarmer\bin\Debug\net6.0\TheTriangleFarmer.dll
+C:\Users\marcu\Desktop\Skola\Players_Guide\Level7\TheTriangleFarmer\bin\Debug\net6.0\TheTriangleFarmer.pdb
+C:\Users\marcu\Desktop\Skola\Players_Guide\Level7\TheTriangleFarmer\obj\Debug\net6.0\TheTriangleFarmer.csproj.AssemblyReference.cache
+C:\Users\marcu\Desktop\Skola\Players_Guide\Level7\TheTriangleFarmer\obj\Debug\net6.0\TheTriangleFarmer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marcu\Desktop\Skola\Players_Guide\Level7\TheTriangleFarmer\obj\Debug\net6.0\TheTriangleFarmer.AssemblyInfoInputs.cache
+C:\Users\marcu\Desktop\Skola\Players_Guide\Level7\TheTriangleFarmer\obj\Debug\net6.0\TheTriangleFarmer.AssemblyInfo.cs
+C:\Users\marcu\Desktop\Skola\Players_Guide\Level7\TheTriangleFarmer\obj\Debug\net6.0\TheTriangleFarmer.csproj.CoreCompileInputs.cache
+C:\Users\marcu\Desktop\Skola\Players_Guide\Level7\TheTriangleFarmer\obj\Debug\net6.0\TheTriangleFarmer.dll
+C:\Users\marcu\Desktop\Skola\Players_Guide\Level7\TheTriangleFarmer\obj\Debug\net6.0\refint\TheTriangleFarmer.dll
+C:\Users\marcu\Desktop\Skola\Players_Guide\Level7\TheTriangleFarmer\obj\Debug\net6.0\TheTriangleFarmer.pdb
+C:\Users\marcu\Desktop\Skola\Players_Guide\Level7\TheTriangleFarmer\obj\Debug\net6.0\TheTriangleFarmer.genruntimeconfig.cache
+C:\Users\marcu\Desktop\Skola\Players_Guide\Level7\TheTriangleFarmer\obj\Debug\net6.0\ref\TheTriangleFarmer.dll

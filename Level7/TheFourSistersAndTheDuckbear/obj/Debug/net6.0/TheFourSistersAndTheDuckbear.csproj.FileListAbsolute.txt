@@ -1,0 +1,15 @@
+C:\Users\marcu\Desktop\Skola\Players_Guide\Level7\TheFourSistersAndTheDuckbear\bin\Debug\net6.0\TheFourSistersAndTheDuckbear.exe
+C:\Users\marcu\Desktop\Skola\Players_Guide\Level7\TheFourSistersAndTheDuckbear\bin\Debug\net6.0\TheFourSistersAndTheDuckbear.deps.json
+C:\Users\marcu\Desktop\Skola\Players_Guide\Level7\TheFourSistersAndTheDuckbear\bin\Debug\net6.0\TheFourSistersAndTheDuckbear.runtimeconfig.json
+C:\Users\marcu\Desktop\Skola\Players_Guide\Level7\TheFourSistersAndTheDuckbear\bin\Debug\net6.0\TheFourSistersAndTheDuckbear.dll
+C:\Users\marcu\Desktop\Skola\Players_Guide\Level7\TheFourSistersAndTheDuckbear\bin\Debug\net6.0\TheFourSistersAndTheDuckbear.pdb
+C:\Users\marcu\Desktop\Skola\Players_Guide\Level7\TheFourSistersAndTheDuckbear\obj\Debug\net6.0\TheFourSistersAndTheDuckbear.csproj.AssemblyReference.cache
+C:\Users\marcu\Desktop\Skola\Players_Guide\Level7\TheFourSistersAndTheDuckbear\obj\Debug\net6.0\TheFourSistersAndTheDuckbear.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marcu\Desktop\Skola\Players_Guide\Level7\TheFourSistersAndTheDuckbear\obj\Debug\net6.0\TheFourSistersAndTheDuckbear.AssemblyInfoInputs.cache
+C:\Users\marcu\Desktop\Skola\Players_Guide\Level7\TheFourSistersAndTheDuckbear\obj\Debug\net6.0\TheFourSistersAndTheDuckbear.AssemblyInfo.cs
+C:\Users\marcu\Desktop\Skola\Players_Guide\Level7\TheFourSistersAndTheDuckbear\obj\Debug\net6.0\TheFourSistersAndTheDuckbear.csproj.CoreCompileInputs.cache
+C:\Users\marcu\Desktop\Skola\Players_Guide\Level7\TheFourSistersAndTheDuckbear\obj\Debug\net6.0\TheFourSistersAndTheDuckbear.dll
+C:\Users\marcu\Desktop\Skola\Players_Guide\Level7\TheFourSistersAndTheDuckbear\obj\Debug\net6.0\refint\TheFourSistersAndTheDuckbear.dll
+C:\Users\marcu\Desktop\Skola\Players_Guide\Level7\TheFourSistersAndTheDuckbear\obj\Debug\net6.0\TheFourSistersAndTheDuckbear.pdb
+C:\Users\marcu\Desktop\Skola\Players_Guide\Level7\TheFourSistersAndTheDuckbear\obj\Debug\net6.0\TheFourSistersAndTheDuckbear.genruntimeconfig.cache
+C:\Users\marcu\Desktop\Skola\Players_Guide\Level7\TheFourSistersAndTheDuckbear\obj\Debug\net6.0\ref\TheFourSistersAndTheDuckbear.dll

@@ -1,0 +1,15 @@
+C:\Users\marcu\Desktop\Skola\Players_Guide\Level7\TheDominionOfKings\bin\Debug\net6.0\TheDominionOfKings.exe
+C:\Users\marcu\Desktop\Skola\Players_Guide\Level7\TheDominionOfKings\bin\Debug\net6.0\TheDominionOfKings.deps.json
+C:\Users\marcu\Desktop\Skola\Players_Guide\Level7\TheDominionOfKings\bin\Debug\net6.0\TheDominionOfKings.runtimeconfig.json
+C:\Users\marcu\Desktop\Skola\Players_Guide\Level7\TheDominionOfKings\bin\Debug\net6.0\TheDominionOfKings.dll
+C:\Users\marcu\Desktop\Skola\Players_Guide\Level7\TheDominionOfKings\bin\Debug\net6.0\TheDominionOfKings.pdb
+C:\Users\marcu\Desktop\Skola\Players_Guide\Level7\TheDominionOfKings\obj\Debug\net6.0\TheDominionOfKings.csproj.AssemblyReference.cache
+C:\Users\marcu\Desktop\Skola\Players_Guide\Level7\TheDominionOfKings\obj\Debug\net6.0\TheDominionOfKings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marcu\Desktop\Skola\Players_Guide\Level7\TheDominionOfKings\obj\Debug\net6.0\TheDominionOfKings.AssemblyInfoInputs.cache
+C:\Users\marcu\Desktop\Skola\Players_Guide\Level7\TheDominionOfKings\obj\Debug\net6.0\TheDominionOfKings.AssemblyInfo.cs
+C:\Users\marcu\Desktop\Skola\Players_Guide\Level7\TheDominionOfKings\obj\Debug\net6.0\TheDominionOfKings.csproj.CoreCompileInputs.cache
+C:\Users\marcu\Desktop\Skola\Players_Guide\Level7\TheDominionOfKings\obj\Debug\net6.0\TheDominionOfKings.dll
+C:\Users\marcu\Desktop\Skola\Players_Guide\Level7\TheDominionOfKings\obj\Debug\net6.0\refint\TheDominionOfKings.dll
+C:\Users\marcu\Desktop\Skola\Players_Guide\Level7\TheDominionOfKings\obj\Debug\net6.0\TheDominionOfKings.pdb
+C:\Users\marcu\Desktop\Skola\Players_Guide\Level7\TheDominionOfKings\obj\Debug\net6.0\TheDominionOfKings.genruntimeconfig.cache
+C:\Users\marcu\Desktop\Skola\Players_Guide\Level7\TheDominionOfKings\obj\Debug\net6.0\ref\TheDominionOfKings.dll
